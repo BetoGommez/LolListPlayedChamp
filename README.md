@@ -5,4 +5,4 @@ No user data is gonna be used or required :).
 
 You can download the apk from here!
 
-https://mega.nz/file/huQzmIaK#m8tUnwvNVAe_D1kLoDu_7S_H_cNgYOk8Gx8Uw0wDfvw
+https://mega.nz/file/wu4ngILL#MQivuO0_KblFWXnbXhjj8NPJ3LYpM-WPly4tlA5GjqU
