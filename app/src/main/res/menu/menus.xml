@@ -9,6 +9,11 @@
         app:actionViewClass="android.widget.SearchView"
         app:showAsAction="always" />
     <item
+        android:id="@+id/hideButton"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="hide"
+        app:showAsAction="always" />
+    <item
         android:id="@+id/buttonCount"
         android:icon="@android:drawable/ic_dialog_dialer"
         android:title="count"
